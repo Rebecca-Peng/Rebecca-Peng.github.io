@@ -1,5 +1,5 @@
 function main() {
-  const canvas = document.querySelector('#c');
+  const canvas = document.querySelector('#c1');
   const renderer = new THREE.WebGLRenderer({canvas});
   renderer.autoClearColor = false;
 

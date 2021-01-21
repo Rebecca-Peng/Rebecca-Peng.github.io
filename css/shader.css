@@ -2,9 +2,15 @@ html, body {
   height: 100%;
   margin: 0;
 }
-#c {
+#c1 {
   width: 15vw;
   height: 15vw;
   float: left;
   display: block;
+}
+
+#c2 {
+  margin-left: 1vw;
+  width: 15vw;
+  height: 15vw;
 }
